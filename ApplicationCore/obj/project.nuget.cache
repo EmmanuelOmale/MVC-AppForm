@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gX5f1eEufYq1gjGliQBtE1vADd7cTssGJtTMh3rw3+cipCESTY7Hi6WG/dmeaI0TfhnE5PvttwQ11wqUs9pWPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Camp for Codes\\ApplicationCore\\ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
